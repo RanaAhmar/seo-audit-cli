@@ -6,74 +6,6 @@
 
 A powerful, developer-friendly terminal tool that performs a comprehensive SEO audit of any website. It scans for meta tags, performance bottlenecks, accessibility issues, and search engine visibility markers, generating a professional report instantly.
 
----
-
-## 🚀 Why Use SEO Audit CLI?
-
-Monitoring SEO doesn't have to be expensive or complex. Instead of paying for heavy SaaS tools, run a quick audit directly from your terminal.
-
-### Key Audit Points:
-- **Meta Content:** Title tags, descriptions, OpenGraph, and Twitter cards.
-- **Header Structure:** H1-H6 hierarchy validation.
-- **Image Optimization:** Missing Alt tags and large file size warnings.
-- **Performance:** Core Web Vitals (LCP, FID, CLS) estimates.
-- **Links:** Broken link detection and `rel="nofollow"` checks.
-- **Sitemap/Robots:** Validation of `sitemap.xml` and `robots.txt`.
-
----
-
-## 🛠️ Installation & Usage
-
-### Npx (No Install)
-```bash
-npx seo-audit-cli https://yourwebsite.com
-```
-
-### Global Install
-```bash
-npm install -g seo-audit-cli
-seo-audit-cli https://yourwebsite.com --report json
-```
-
----
-
-## 📊 Report Formats
-
-- **Terminal (Default):** A beautiful, color-coded summary in your shell.
-- **JSON:** Perfect for CI/CD pipelines to prevent SEO regressions.
-- **Markdown:** Ready to be pasted into GitHub PRs or team docs.
-
----
-
-## 🌟 Built by Ahmar Hussain
-
-I am Ahmar Hussain, a Full Stack Developer and founder of [Stackaura](https://www.stackaura.com/). I build tools that help businesses and developers rank better and perform faster.
-
-### Reach Out:
-- **Website:** [Stackaura.com](https://www.stackaura.com/)
-- **Twitter:** [@AhmarHussain](https://twitter.com/AhmarHussain)
-- **LinkedIn:** [Ahmar Hussain](https://www.linkedin.com/in/ahmar-hussain/)
-
----
-
-## 🚀 Explore More Tools
-
-- [**JS Web Scraper Toolkit**](https://github.com/AhmarHussain/js-web-scraper-toolkit)
-- [**API Documentation Template**](https://github.com/AhmarHussain/api-documentation-template)
-- [**Headless CMS Comparison**](https://github.com/AhmarHussain/headless-cms-comparison)
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-<div align="center">
-  <p>Built with ❤️ by <b>Ahmar Hussain</b> for <b>Stackaura</b>.</p>
-</div>
-
 
 ---
 
@@ -92,3 +24,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+

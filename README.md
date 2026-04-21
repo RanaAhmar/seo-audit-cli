@@ -7,6 +7,7 @@
 A powerful, developer-friendly terminal tool that performs a comprehensive SEO audit of any website. It scans for meta tags, performance bottlenecks, accessibility issues, and search engine visibility markers, generating a professional report instantly.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -24,4 +25,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
